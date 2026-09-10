@@ -1,2 +1,5 @@
 Agile Methodology is a software development approach that focuses on developing software in small, manageable parts and delivering working store quickly.
 Instead of developing the entire project at once, Agile divides the project into small cycles called iterations or sprints. At the end of each sprint, a working part of the software is delivered.
+Customer satisfaction
+Continuous development
+Frequent delivery
