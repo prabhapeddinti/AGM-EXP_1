@@ -3,3 +3,4 @@ Instead of developing the entire project at once, Agile divides the project into
 Customer satisfaction
 Continuous development
 Frequent delivery
+Team collaboration
