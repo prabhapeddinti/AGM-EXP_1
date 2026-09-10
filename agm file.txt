@@ -4,3 +4,4 @@ Customer satisfaction
 Continuous development
 Frequent delivery
 Team collaboration
+Flexibility to changing requirements
